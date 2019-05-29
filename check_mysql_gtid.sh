@@ -5,6 +5,8 @@
 
 MYSQL_DEFAULTS_FILE="./check_mysql_gtid_credentials"
 
+VERSION="1.0.0"
+
 RESULT_OK=0
 RESULT_WARNING=1
 RESULT_CRITICAL=2
